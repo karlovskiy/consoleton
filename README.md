@@ -1,4 +1,0 @@
-ipstorage
-=========
-
-ip storage application
