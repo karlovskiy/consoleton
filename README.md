@@ -1,4 +1,4 @@
-project-skel
+Consoleton
 ============
 
-skeleton console java application
+skeleton of console java application
